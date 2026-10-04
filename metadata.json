@@ -1,0 +1,6 @@
+{
+  "name": "VoxHire.AI - Autonomous AI Voice Screening & Calling",
+  "description": "Enterprise AI voice agent platform for automated candidate screening, inbound call handling, lead qualification, and structured conversation analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
